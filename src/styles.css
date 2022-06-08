@@ -1,0 +1,109 @@
+html,body{
+    margin: 0;
+}
+
+body{
+    background-color: #1A1B21;
+}
+
+.about-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.about-header{
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #F5F5F5;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.about-info{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 12.8px;
+    color: #F3BF99;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.about-para{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 10.24px;
+    color: #DCDCDC;
+    text-align: left;
+}
+
+.brand-icon{
+    text-decoration: none;
+    color: #FFFFFF;
+    margin: 20px;
+}
+
+.brand-icon:hover{
+    text-decoration: none;
+}
+
+.button-icon{
+    margin-right: 10px;
+}
+
+.email-button{
+    margin-right: 10px;
+}
+
+.footer-class{
+    background-color: #161619;
+    text-align: center;
+}
+
+.linkedin-button{
+    margin-left: 10px;
+}
+
+.linkedin-link{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 15.36px;
+    align-items: center;
+}
+
+.linkedin-link:hover{
+    text-decoration: none;
+}
+
+.linkedin-link-container{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.my-image{
+    width: 317px;
+    height: 317px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+}
+
+.name-info{
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30.26px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
